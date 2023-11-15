@@ -147,7 +147,8 @@ nav {
 }
 .bluebg_images {
     display: flex;
-    margin: 0 385px;
+    margin-inline: auto;
+    justify-content: center;
 }
 .bluebg_images img {
     width: 200px;
